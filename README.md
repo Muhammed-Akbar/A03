@@ -1,7 +1,7 @@
 # A03
 PART 1: Directions on Using Webstorm.
-* **Webstorm**: Download from https://www.jetbrains.com/community/education/#students
-* **Git**: Download from https://git-scm.com/downloads
+**Webstorm**: Download from https://www.jetbrains.com/community/education/#students
+**Git**: Download from https://git-scm.com/downloads
 1. Find the downloaded file and install it. Usually this is done by double clicking the file. 
 2. Start Webstorm.
 3. In Webstorm, check and install updates by choosing:Help -> Check for Updates
@@ -23,7 +23,7 @@ PART 1: Directions on Using Webstorm.
 19. Commit to Git VCS->Git->Commit Add the Commit comment and click Commit
 20. Push the change to GithubVCS -> Git -> Push (Cntl+Shift+K)
 
-* **Github**: Join from https://github.com/join
+**Github**: Join from https://github.com/join
 
 
 
