@@ -10,6 +10,7 @@ PART 1: Directions on Using Webstorm.
 4. Once installed start Webstorm.
 5. Click the add button to create a new project and assign it a name of your choosing.
 6. Then add new file by clicking on file -> new and pick a file type.
+
 <br>Git/Github Instructions:
 1. Find the downloaded file and install it. Usually this is done by double clicking the file. 
 2. Start Webstorm.
