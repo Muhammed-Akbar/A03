@@ -10,8 +10,18 @@ PART 1: Directions on Using Webstorm.
 4. Once installed start Webstorm.
 5. Click the add button to create a new project and assign it a name of your choosing.
 6. Then add new file by clicking on file -> new and pick a file type.
+7. Give your file a name of your choosing.
 
-<br>Git/Github Instructions:
+<br>Github Instructions:
+1. Click on the link for github and create an account.
+2. Once your account is created click on the green button in the left hand corner which says new.
+3. This will lead you to the create repository page
+4. In the repository field enter a name of your choosing.
+5. Select private since you are just creating your repository, this can be changed later on in the settings.
+6. Initialize the repository by selecting Add a README file. This can be used to display any information related to the contents of your repository.
+7. Click on create Repository.
+
+<br>Git Instructions:
 1. Find the downloaded file and install it. Usually this is done by double clicking the file. 
 2. Start Webstorm.
 3. In Webstorm, check and install updates by choosing:Help -> Check for Updates
@@ -50,4 +60,5 @@ Part 2: Glossary to include these terms in a bulleted list.
 * **Repository**:A repository is essentially a project’s folder, repositories store every single project file, its documentation and its revision history of every document. Repositories can also accept multiple private or public collaborators.
 * Sources: https://www.coredna.com/blogs/what-is-git-and-github-part-two,
 https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts,
-https://www.git-tower.com/learn/git/glossary/remote/#:~:text=A%20remote%20in%20Git%20is,of%20the%20project's%20current%20state
+https://www.git-tower.com/learn/git/glossary/remote/#:~:text=A%20remote%20in%20Git%20is,of%20the%20project's%20current%20state,
+https://njit.instructure.com/courses/15497/files/1757124?module_item_id=406714
