@@ -1,11 +1,8 @@
 # A03
 PART 1: Directions on Using Webstorm.
-* **Webstorm**: 
-  Download from https://www.jetbrains.com/community/education/#students
-* **Git**: 
-  Download from https://git-scm.com/downloads
-* **Github**:   
-  Join from https://github.com/join
+* **Webstorm**: Download from https://www.jetbrains.com/community/education/#students
+* **Git**: Download from https://git-scm.com/downloads
+* **Github**: Join from https://github.com/join
 
 
  
