@@ -3,13 +3,13 @@ PART 1: Directions on Using Webstorm.
 <br>**Webstorm**: Download from https://www.jetbrains.com/community/education/#students
 <br>**Github**: Join from https://github.com/join
 <br>**Git**: Download from https://git-scm.com/downloads
+
 <br>Webstorm Instructions:
 1. Click on the link for Webstorm create an account and follow the installation instructions.
 2. Find the downloaded file and install it. Usually this is done by double clicking the file. 
 4. Once installed start Webstorm.
 5. Click the add button to create a new project and assign it a name of your choosing.
 6. Then add new file by clicking on file -> new and pick a file type.
-
 <br>Git/Github Instructions:
 1. Find the downloaded file and install it. Usually this is done by double clicking the file. 
 2. Start Webstorm.
@@ -39,7 +39,7 @@ Part 2: Glossary to include these terms in a bulleted list.
 * **Clone**:Clones are literally clones (copies) of a repository that sit on the developer’s computer instead of a server elsewhere.  
 * **Commit**:An individual change to a file (or set of files). It's like when you save a file, every time you save it creates a unique ID that allows you to keep record of what changes were made when and by who. 
 * **Fetch**:Fetching refers to getting the latest changes from an online repository (like GitHub.com) without merging them in. Once these changes are fetched you can compare them to your local branches (the code residing on your local machine).  
-* **GIT**:An open source cod management system. The basic idea of git is to keep track of different versions of code or text, so you easily can compare what has changed. 
+* **GIT**:An open source code management system. The basic idea of git is to keep track of different versions of code or text, so you easily can compare what has changed. 
 * **Github**:Github is like wikipedia for programmers. you can edit files, see who changed what, view old versions of files and access it from anywhere in the world. 
 * **Merge**:Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another.  
 * **Merge Conflict**:Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.  
