@@ -2,7 +2,29 @@
 PART 1: Directions on Using Webstorm.
 * **Webstorm**: Download from https://www.jetbrains.com/community/education/#students
 * **Git**: Download from https://git-scm.com/downloads
+1. Find the downloaded file and install it. Usually this is done by double clicking the file. 
+2. Start Webstorm.
+3. In Webstorm, check and install updates by choosing:Help -> Check for Updates
+4. Display theWebstormsettings,press (Ctrl+Alt+S)Choose Version Control -> Git. from the left side.
+5. Click Test to make sure that Webstorm is connected to Git. The path in the location box should be C:\Program Files\Git\bin\git.exe. Auto-detect may find the git.exe file at C:\Program Files\Git\cmd\git.exe.If Git is installed correctly, you should get the message “Git Executed Successfully.” The version number isdisplayed.
+6. Click OK to exit
+7. Click “Create New Project” onthe Webstorm main page.
+8. NEW PROJECT: Choose a location and give the project a name. Overwrite the word “untitled” with the name you choose. For Example:
+9. Click Create.
+10. Create a new file.Click File -> New -> HTML File -> HTML 5Name the file index (in lower case)
+11. Make some changes
+12. Click VCS -> Import into Version Control -> Create Git Repository
+13. Click OK
+14. Commit the changes to GIT: VCS->Git -> Commit File, Click Commit.If this is the first commit ever, you will have a dialog box open. Set the Git username and email. Use your .EDU email.  (Click Set and Commit)
+15. Add the project to GITHUB Click VCS -> Import into Version Control -> Share Project on Github, Click Share. If all goes well you will receive a message “Successfully shared project on GitHub.”
+16. Add a new file to the GitHub Repository. Create a New file. Name it README.MD 
+17. Add some text and commit. The new file is in the list.
+18. Make a change in Webstorm. 
+19. Commit to Git VCS->Git->Commit Add the Commit comment and click Commit
+20. Push the change to GithubVCS -> Git -> Push (Cntl+Shift+K)
+
 * **Github**: Join from https://github.com/join
+
 
 
  
