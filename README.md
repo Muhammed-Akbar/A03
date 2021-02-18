@@ -24,11 +24,6 @@ PART 1: Directions on Using Webstorm.
 19. Commit to Git VCS->Git->Commit Add the Commit comment and click Commit
 20. Push the change to GithubVCS -> Git -> Push (Cntl+Shift+K)
 
-**Github**: Join from https://github.com/join
-
-
-
- 
 
 Part 2: Glossary to include these terms in a bulleted list.
 
