@@ -21,6 +21,6 @@ Part 2: Glossary to include these terms in a bulleted list.
 * **Pull**:Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch.  
 * **Remote**:A remote in Git is a common repository that all team members use to exchange their changes and it only consists of the .git versioning data.  
 * **Repository**:A repository is essentially a project’s folder, repositories store every single project file, its documentation and its revision history of every document. Repositories can also accept multiple private or public collaborators.
-Source: https://www.coredna.com/blogs/what-is-git-and-github-part-two,
-https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts
-https://www.git-tower.com/learn/git/glossary/remote/#:~:text=A%20remote%20in%20Git%20is,of%20the%20project's%20current%20state.
+* Sources: https://www.coredna.com/blogs/what-is-git-and-github-part-two,
+https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts,
+https://www.git-tower.com/learn/git/glossary/remote/#:~:text=A%20remote%20in%20Git%20is,of%20the%20project's%20current%20state
