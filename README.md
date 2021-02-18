@@ -1,7 +1,8 @@
 # A03
 PART 1: Directions on Using Webstorm.
-<br>**Webstorm**: Download from https://www.jetbrains.com/community/education/#students 
-<br><br>**Git**: Download from https://git-scm.com/downloads
+<br>**Webstorm**: Download from https://www.jetbrains.com/community/education/#students
+<br>**Github**: Join from https://github.com/join
+<br>**Git**: Download from https://git-scm.com/downloads
 1. Find the downloaded file and install it. Usually this is done by double clicking the file. 
 2. Start Webstorm.
 3. In Webstorm, check and install updates by choosing:Help -> Check for Updates
